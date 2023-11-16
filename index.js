@@ -17,9 +17,9 @@ export const compare2ObjectsArray = async () => {
     let configCRMProduct = {
         method: 'get',
         maxBodyLength: Infinity,
-        url: 'https://sb-organon-organon-promomats-authoring-tool-mvp.veevavault.com/api/v22.2/vobjects/crm_product__v',
+        url: 'xxx',
         headers: { 
-          'Authorization': '1573B6F87E510CD1F288D1F3DD6512826F474B7529371CED1B76D615740B8C5D5CA4CD3DB6C1B3F0C8D7D21BA6B06C1EC354394D9DD5CC157D5A07958AE8A3EA', 
+          'Authorization': 'xxxx', 
           'Content-Type': 'application/json',
           'Accept': '*/*'
         },
@@ -27,9 +27,9 @@ export const compare2ObjectsArray = async () => {
     let configProduct = {
         method: 'get',
         maxBodyLength: Infinity,
-        url: 'https://sb-organon-organon-promomats-authoring-tool-mvp.veevavault.com/api/v22.2/vobjects/product__v',
+        url: 'xxxx',
         headers: { 
-          'Authorization': '1573B6F87E510CD1F288D1F3DD6512826F474B7529371CED1B76D615740B8C5D5CA4CD3DB6C1B3F0C8D7D21BA6B06C1EC354394D9DD5CC157D5A07958AE8A3EA', 
+          'Authorization': 'xxxx', 
           'Content-Type': 'application/json',
           'Accept': '*/*'
         },
